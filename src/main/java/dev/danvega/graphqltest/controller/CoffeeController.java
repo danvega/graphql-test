@@ -1,2 +1,5 @@
-package dev.danvega.graphqltest.controller;public class CoffeeController {
+package dev.danvega.graphqltest.controller;
+
+public class CoffeeController {
+
 }
