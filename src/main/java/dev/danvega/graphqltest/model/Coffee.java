@@ -1,2 +1,5 @@
-package dev.danvega.graphqltest.model;public class Coffee {
+package dev.danvega.graphqltest.model;
+
+public record Coffee(Integer id, String name, Size size) {
+
 }
