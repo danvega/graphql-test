@@ -1,12 +1,12 @@
 {
-  "name": "Untitled GraphQL Schema",
-  "schemaPath": "schema.graphql",
+  "name": "Slice Testing GraphQL Schema",
+  "schemaPath": "schema.graphqls",
   "extensions": {
     "endpoints": {
       "Default GraphQL Endpoint": {
         "url": "http://localhost:8080/graphql",
         "headers": {
-          "user-agent": "JS GraphQL"
+          "user-agent": "Spring for GraphQL"
         },
         "introspect": false
       }
